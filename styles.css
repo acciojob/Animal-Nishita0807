@@ -5,7 +5,7 @@
 	background-color:gray;
 	border-radius:20px;
 }
-#photo-heading>h1{
+#photo-heading{
 	text-transform:uppercase;
 	color:white;
 	display:flex;
